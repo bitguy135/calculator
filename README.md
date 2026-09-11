@@ -5,4 +5,5 @@ yahan kuch bold nahi hai\
 **yeh sithoor bold hain**\
 **~~This is Cliche~~**\
 **_laila main laila_**\
-**2 X 2=2<sup>2</sup>**
+**2 X 2=2  <sup>2</sup>**
+log<sup>
