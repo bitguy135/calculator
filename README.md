@@ -6,4 +6,4 @@ yahan kuch bold nahi hai\
 **~~This is Cliche~~**\
 **_laila main laila_**\
 **2<sup>2</sup> X 2<sup>2</sup> =2<sup>4</sup>**\
-### log<sub>10</sub>100
+### log<sub>10</sub>200
